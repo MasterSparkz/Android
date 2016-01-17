@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AirVisor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="direction"></string>
+    <string name="intensity"></string>
+    <string name="msg"></string>
+    <string name="Left">"L"</string>
+    <string name="Both">"B"</string>
+    <string name="Right">"R"</string>
+    <string name="High">"3"</string>
+    <string name="Medium">"2"</string>
+    <string name="Low">"1"</string>
+
+</resources>
